@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e9fd90b2-296b-4c92-8a69-9e22d9681b81</dc:identifier>
+        <dc:title>2396 Uniform Resource Identifiers (URI): Generic Syntax</dc:title>
+        <dc:creator opf:file-as="RFC" opf:role="aut">RFC</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.8.48) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-05-10T05:13:38+00:00</dc:date>
+        <dc:publisher>RFC</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>RFC</dc:subject>
+        <meta content="{&quot;RFC&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="RFC" name="calibre:series"/>
+        <meta content="1" name="calibre:series_index"/>
+        <meta content="0.0" name="calibre:rating"/>
+        <meta content="2012-05-10T05:13:38+00:00" name="calibre:timestamp"/>
+        <meta content="2396" name="calibre:title_sort"/>
+    </metadata>
+    <guide/>
+</package>
