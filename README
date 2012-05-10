@@ -1,0 +1,8 @@
+Top 50 RFCs (http://www.faqs.org/rfc-pop1.html)
+folder txt contains the original RFCs (http://www.rfc-editor.org/)
+folder rfc contains convert & edited RFCs for kindle
+down.sh is used to download the RFCs specified in rfc_num
+convert.sh is used to convert txt to mobi format
+other resources:
+rfctxt2kindlehtml.py (https://github.com/pingwin/RFC-2-Kindle)
+KindleGen (http://www.amazon.com/gp/feature.html?ie=UTF8&docId=1000234621)
